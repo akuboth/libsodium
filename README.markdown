@@ -7,7 +7,7 @@
 ![libsodium](https://raw.github.com/jedisct1/libsodium/master/logo.png)
 ============
 
-Forked by AKuboth
+Forked by AKuboth - On Demo Branch
 
 Sodium is an easy-to-use software library for encryption,
 decryption, signatures, password hashing, and more.
